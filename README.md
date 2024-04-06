@@ -1,6 +1,11 @@
 ### Hi there 👋
 ---
 ## Undergrad Student working on Deep Learning Acceleration.
+
+## interested in
+- hardware
+- Deeplearning 경량화
+- Embedding System
 <!--
 **kylekim00/kylekim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
