@@ -1,22 +1,27 @@
-### Hi there 👋
+
+# Hongkwon Kim
+
+Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intelligence Accelerating Lab(AIAC Lab) in Hallym University, Chuncheon, South Korea. 
+
 ---
-## Undergrad Student working on Deep Learning Acceleration.
+### Currently, I am interested in following Topics:
+- Deep Learning Model Lightweighting
+- Logic Circuit Architecture Design using FPGA
+- Edge AI chip design
+- Fedarated Learning on Edge AI
 
-## interested in
-- hardware
-- Deeplearning 경량화
-- Embedding System
-<!--
-**kylekim00/kylekim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# STATUS
+|Name|Hongkwon Kim|
+|----|----|
+|School|Hallym University|
+|Laboratory| [Artificial Intelligence ACcelerating Lab(AIAC Lab)](https://sites.google.com/site/embeddedsochallymuniv/project)|
+|Grade|Junior|
+|E-mail|kylekim00@gmail.ac.kr|
+|github|https://github.com/kylekim00|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Groups
+- (2024.03 ~ 2024.06) Hallym Mentoring Program Mentor 
+
+# Hackathon
+- Representative Team from Gangwon Province advancing to National Software Hackathon
