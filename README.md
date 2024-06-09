@@ -24,7 +24,7 @@ Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intell
 - (2024.03 ~ 2024.06) Hallym Mentoring Program Mentor 
 
 # Hackathon
-- Representative Team from Gangwon Province advancing to National Software Hackathon
+- Representative Team from Gangwon Province advancing to 2023 National Software Hackathon
 
 # Award
-- 4th prize in National software University AI competition(Satellite Image Segmentation)
+- 4th prize in 2023 National software University AI competition(Satellite Image Segmentation)
