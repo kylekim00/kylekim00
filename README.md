@@ -25,3 +25,6 @@ Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intell
 
 # Hackathon
 - Representative Team from Gangwon Province advancing to National Software Hackathon
+
+# Award
+- 4th prize in National software University AI competition(Satellite Image Segmentation)
