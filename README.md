@@ -27,5 +27,5 @@ Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intell
 - Representative Team from Gangwon Province advancing to 2023 National Software Hackathon
 
 # Award
-- 4th prize in 2023 National software University AI competition(Satellite Image Segmentation)
 - 3rd prize in 2024 National software University AI competition(Generative AI fraud detection)
+- 4th prize in 2023 National software University AI competition(Satellite Image Segmentation)
