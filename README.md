@@ -5,7 +5,7 @@ Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intell
 
 ---
 ### Currently, I am interested in following Topics:
-- Deep Learning Model Lightweighting
+- Deep Learning Model Lightweighting by manipulating computation using CUDA in C
 - Logic Circuit Architecture Design using FPGA
 - Edge AI chip design
 - Fedarated Learning on Edge AI
