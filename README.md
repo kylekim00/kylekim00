@@ -16,7 +16,7 @@ Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intell
 |----|----|
 |School|Hallym University|
 |Laboratory| [Artificial Intelligence ACcelerating Lab(AIAC Lab)](https://sites.google.com/site/embeddedsochallymuniv/project)|
-|Grade|Junior|
+|Grade|Senior|
 |E-mail|kylekim00@gmail.ac.kr|
 |github|https://github.com/kylekim00|
 
@@ -27,5 +27,7 @@ Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intell
 - Representative Team from Gangwon Province advancing to 2023 National Software Hackathon
 
 # Award
+- 2nd prize in 2024-2 Capstone design project(Easy Tensor)
 - 3rd prize in 2024 National software University AI competition(Generative AI fraud detection)
+- 2nd prize in 2024 Hallym hospital AI clinical data competition
 - 4th prize in 2023 National software University AI competition(Satellite Image Segmentation)
