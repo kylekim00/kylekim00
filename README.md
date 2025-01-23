@@ -21,12 +21,12 @@ Hi! My name is [Hongkwon Kim](https://github.com/kylekim00?tab=repositories), un
 |E-mail|kylekim00@gmail.ac.kr|
 |github|https://github.com/kylekim00|
 
-# Awards
+#  🏆 Awards
 - 3rd prize in 2024 National software University AI competition(Generative AI fraud detection)
 - 2nd prize in 2024 Hallym hospital AI clinical data competition
 - 4th prize in 2023 National software University AI competition(Satellite Image Segmentation)
 
-# School Prizes
+#  🏆 School Prizes
 - 2nd prize in 2024-2 Capstone design project(Easy Tensor)
 - 2nd prize in 2023 Caerang SW competition
 
