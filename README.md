@@ -1,11 +1,12 @@
 
 # Hongkwon Kim
 
-Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intelligence Accelerating Lab(AIAC Lab) in Hallym University, Chuncheon, South Korea. 
+Hi! My name is [Hongkwon Kim](https://github.com/kylekim00?tab=repositories), undergraduate research student at Artificial Intelligence Accelerating Lab(AIAC Lab) in Hallym University, Chuncheon, South Korea. 
 
 ---
 ### Currently, I am interested in following Topics:
-- Deep Learning Model Lightweighting by manipulating computation using CUDA in C
+- Deep Learning Model Lightweighting by manipulating computation using CUDA in C(checkout my deep learning framework, [EasyTensor](https://github.com/kylekim00/easytensor)!)
+- Sleep Stage Classification using EEG in Sleep EDF and SHHS dataset.
 - Logic Circuit Architecture Design using FPGA
 - Edge AI chip design
 - Fedarated Learning on Edge AI
@@ -27,9 +28,11 @@ Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intell
 # Hackathon
 - Representative Team from Gangwon Province advancing to 2023 National Software Hackathon
 
-# Award
-- 2nd prize in 2024-2 Capstone design project(Easy Tensor)
+# Awards
 - 3rd prize in 2024 National software University AI competition(Generative AI fraud detection)
 - 2nd prize in 2024 Hallym hospital AI clinical data competition
 - 4th prize in 2023 National software University AI competition(Satellite Image Segmentation)
+
+# School Prizes
+- 2nd prize in 2024-2 Capstone design project(Easy Tensor)
 - 2nd prize in 2023 Caerang SW competition
