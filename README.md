@@ -21,13 +21,6 @@ Hi! My name is [Hongkwon Kim](https://github.com/kylekim00?tab=repositories), un
 |E-mail|kylekim00@gmail.ac.kr|
 |github|https://github.com/kylekim00|
 
-# Groups
-- (2024.03 ~ 2024.06) Hallym Mentoring Program Mentor
-- (2024.09 ~ 2024.12) Algorithm class Teaching Assistant
-
-# Hackathon
-- Representative Team from Gangwon Province advancing to 2023 National Software Hackathon
-
 # Awards
 - 3rd prize in 2024 National software University AI competition(Generative AI fraud detection)
 - 2nd prize in 2024 Hallym hospital AI clinical data competition
@@ -36,3 +29,12 @@ Hi! My name is [Hongkwon Kim](https://github.com/kylekim00?tab=repositories), un
 # School Prizes
 - 2nd prize in 2024-2 Capstone design project(Easy Tensor)
 - 2nd prize in 2023 Caerang SW competition
+
+# Groups
+- (2024.03 ~ 2024.06) Hallym Mentoring Program Mentor
+- (2024.09 ~ 2024.12) Algorithm class Teaching Assistant
+
+# Hackathon
+- Representative Team from Gangwon Province advancing to 2023 National Software Hackathon
+
+
