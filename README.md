@@ -5,7 +5,7 @@ Hi! My name is [Hongkwon Kim](https://github.com/kylekim00?tab=repositories), un
 
 ---
 ### Currently, I am interested in following Topics:
-- Deep Learning Model Lightweighting by manipulating computation using CUDA in C(checkout my deep learning framework, [EasyTensor](https://github.com/kylekim00/easytensor)!)
+- Deep Learning Model Lightweighting by manipulating computation using CUDA in C(checkout my deep learning framework, [EasyTensor](https://github.com/kylekim00/Easy_Tensor)!)
 - Sleep Stage Classification using EEG in Sleep EDF and SHHS dataset.
 - Logic Circuit Architecture Design using FPGA
 - Edge AI chip design
