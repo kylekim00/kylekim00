@@ -21,7 +21,8 @@ Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intell
 |github|https://github.com/kylekim00|
 
 # Groups
-- (2024.03 ~ 2024.06) Hallym Mentoring Program Mentor 
+- (2024.03 ~ 2024.06) Hallym Mentoring Program Mentor
+- (2024.09 ~ 2024.12) Algorithm class Teaching Assistant
 
 # Hackathon
 - Representative Team from Gangwon Province advancing to 2023 National Software Hackathon
