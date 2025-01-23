@@ -32,3 +32,4 @@ Hi! My name is Hongkwon Kim, undergraduate research student at Artificial Intell
 - 3rd prize in 2024 National software University AI competition(Generative AI fraud detection)
 - 2nd prize in 2024 Hallym hospital AI clinical data competition
 - 4th prize in 2023 National software University AI competition(Satellite Image Segmentation)
+- 2nd prize in 2023 Caerang SW competition
