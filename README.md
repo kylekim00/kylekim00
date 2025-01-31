@@ -2,7 +2,7 @@
 # Hongkwon Kim
 
 Hi! My name is [Hongkwon Kim](https://github.com/kylekim00?tab=repositories), undergraduate research student at Artificial Intelligence Accelerating Lab(AIAC Lab) in Hallym University, Chuncheon, South Korea. 
-![alt text](https://github.com/kylekim00/kylekim00/blob/main/waiting.png?raw=true)
+![alt text](https://github.com/kylekim00/kylekim00/blob/main/waiting1.png?raw=true)
 
 ---
 ### Currently, I am interested in following Topics:
