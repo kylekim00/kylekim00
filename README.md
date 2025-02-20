@@ -34,6 +34,7 @@ Hi! My name is [Hongkwon Kim](https://github.com/kylekim00?tab=repositories), un
 # Groups
 - (2024.03 ~ 2024.06) Hallym Mentoring Program Mentor
 - (2024.09 ~ 2024.12) Algorithm class Teaching Assistant
+- (2025.01 ~ present) Caerang Tensor Team Leader(AI)
 
 # Hackathon
 - Representative Team from Gangwon Province advancing to 2023 National Software Hackathon
