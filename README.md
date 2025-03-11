@@ -22,6 +22,9 @@ Hi! My name is [Hongkwon Kim](https://github.com/kylekim00?tab=repositories), un
 |E-mail|kylekim00@gmail.ac.kr|
 |github|https://github.com/kylekim00|
 
+# Papers
+- MC2SleepNet: Multi-modal Cross-masking with Contrastive Learning for Sleep Stage Classification
+
 #  🏆 Awards
 - 3rd prize in 2024 National software University AI competition(Generative AI fraud detection)
 - 2nd prize in 2024 Hallym hospital AI clinical data competition
