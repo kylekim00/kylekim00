@@ -23,8 +23,7 @@ Hi! My name is [Hongkwon Kim](https://github.com/kylekim00?tab=repositories), un
 |github|https://github.com/kylekim00|
 
 # Papers
-- MC2SleepNet: Multi-modal Cross-masking with Contrastive Learning for Sleep Stage Classification
-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mc2sleepnet-multi-modal-cross-masking-with/sleep-stage-detection-on-shhs-single-channel)](https://paperswithcode.com/sota/sleep-stage-detection-on-shhs-single-channel?p=mc2sleepnet-multi-modal-cross-masking-with)
+- MC2SleepNet: Multi-modal Cross-masking with Contrastive Learning for Sleep Stage Classification[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mc2sleepnet-multi-modal-cross-masking-with/sleep-stage-detection-on-shhs-single-channel)](https://paperswithcode.com/sota/sleep-stage-detection-on-shhs-single-channel?p=mc2sleepnet-multi-modal-cross-masking-with)
 
 #  🏆 Awards
 - 3rd prize in 2024 National software University AI competition(Generative AI fraud detection)
